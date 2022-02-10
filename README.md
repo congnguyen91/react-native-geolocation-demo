@@ -27,3 +27,11 @@ geotechgroupservices
 - We can test when in use app or always. (default:required is always).
 
   ![The simple app 3.1](./images/3.1.png)
+
+=> Then toggle the switch on the right of the top bar.
+
+5. Go to this link
+
+[https://tracker.transistorsoft.com/geotechgroupservices](https://tracker.transistorsoft.com/geotechgroupservices)
+
+![The simple app 4](./images/4.png)
